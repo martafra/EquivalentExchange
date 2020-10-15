@@ -1,0 +1,5 @@
+As a user I want to be able to be rated by buyers according to the conditions of sold products and my availability (to people) so that I can earn future buyers’ trust.
+
+As a user I want to be able to search products in terms of their type (books, movies, videogames) so that I can see articles I’m interested in. 
+
+As a user I want to be able to sort the results of my search by: rising price, decreasing price, positive reviews and proximity of the seller to speed-up the search. 	
