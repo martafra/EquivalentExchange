@@ -1,0 +1,5 @@
+The system shall provide the following filters that can be selected: recommended age, category, proximity of the seller.
+
+The system shall sort the results of the search by:  rising price, decreasing price, positive reviews.
+
+The system shall be able to add differents articles in a wishlist.
