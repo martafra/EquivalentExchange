@@ -1,0 +1,3 @@
+1) The system shall provide a way to write reviews or tutorials, allowing to add media contents (images, videos) and external links.
+2) The system shall provide a private communication channel between the two participants in the sale agreement; when the agreement is concluded the users could choose to close the communication channel.
+3) The system shall provide the user a personal wallet in order to keep track of the current credit and view the latest sales transactions carried out in chronological order, with the possibility of adding personal text notes to them.
