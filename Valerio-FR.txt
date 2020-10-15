@@ -1,0 +1,8 @@
+the system shall alert the user, with an internal notification, when an article:
+	-has been sold to another user
+	-has changed price
+	-is earnable with the current credit of the user
+
+the system shall provide a notification center that will show all the user’s pending messages and the notifications of the system
+
+the system shall provide a rating system for evaluate the seller’s account in terms of past users experiences

@@ -1,0 +1,6 @@
+As a Reviewer/Tutorialist i want to be able to post images and videos in my review, so that I can be supportive for the community.
+
+As a reviewer/Tutorialist I want to be able to get access to the analytics of my reviews so that I can see if they are useful.
+
+As a user, I want to be notified every time an article of my interest is no longer available, undergoes a price change or can be purchased with my current credit, so I stay updated on the status of the article.
+
